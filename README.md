@@ -19,6 +19,8 @@ Screenshots
 
 3. Once expanded, the user can write and delete as many notes as they want.
 
+![alt text](https://github.com/anabaronam/KeeperApp/blob/main/keeperAppNotes.jpg)
+
 
 
 
