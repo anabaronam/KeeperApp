@@ -15,5 +15,10 @@ Screenshots
 
 2. When expanded, it enables a text form for the notes:
 
+![alt text](https://github.com/anabaronam/KeeperApp/blob/main/keeperAppExpanded.jpg)
+
+3. Once expanded, the user can write and delete as many notes as they want.
+
+
 
 
